@@ -1,0 +1,22 @@
+*{padding:0;margin:0;}
+
+body{background:#0a0a0a;}
+#block_a{background:#333333;padding-bottom:30px;padding-top:30px;margin-bottom:108px;}
+#shop_name_a{font-size:20px;margin-left:200px;}
+
+#home{margin-left:322px;text-decoration:none;color:#969494;background:#e2e2e2;padding:15px;border-radius:70px;}
+#home:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+#product{text-decoration:none;color:#969494;background:#e2e2e2;margin-left:20px;padding:15px;border-radius:70px;}
+#product:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+#contact{text-decoration:none;color:#969494;background:#e2e2e2;margin-left:20px;padding:15px;border-radius:70px;}
+#contact:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+#about{text-decoration:none;color:#969494;background:#e2e2e2;margin-left:20px;padding:15px;border-radius:70px;}
+#about:hover{color:#9e9e9e7a;transition:all 1s;background:#d4d4d4;border-radius:10px;}
+
+
+#shopkeeper{background:#d84315;color:white;padding-left:200px;padding-right:200px;padding-bottom:20px;padding-top:20px;margin-left:615px;border-radius:100px;font-family:arial black;}
+#idol_boss{max-height:175px;overflow-x:hidden;border-bottom:5px solid #bf360c;border-top:5px solid #bf360c;}
+#father_photo_{margin-left:570px;border:1px solid #ff5722;border-radius:250px;margin-top:30px;}
+#alom_khan{color:white;background:#ff5722;padding-left:300px;padding-right:300px;padding-bottom:20px;padding-top:20px;margin-left:505px;border-radius:100px;font-family:arial black;}
+#detailss{background:#ef6c00;color:white;padding-left:200px;padding-right:200px;padding-bottom:10px;padding-top:10px;margin-left:340px;border-radius:30px;font-size:20px;font-family:arial black;}
+#business{color:white;background:#ff5722;padding-bottom:10px;padding-top:10px;padding-left:200px;padding-right:200px;border-radius:100px;font-family:arial black;margin-left:575px;}
